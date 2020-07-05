@@ -7,7 +7,8 @@
 - wardley map (DRAFT)
 - CICD PsuedoCode (DRAFT)
 - 5 metrics for serverless function (DRAFT)
-- Use CI / CD Pipeline for bonus points (DRAFT)
+- Use CI / CD Pipeline (DRAFT)
+- bonus points for the use of CI/CD pipelines and releasing materials under a Creative Commons licence
 
 
 
