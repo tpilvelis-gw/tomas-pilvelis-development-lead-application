@@ -24,12 +24,12 @@ I've seen Wardley create his maps after creating the value chain first then deve
 ![1st Map](maps/map1.png)
 I’m a very personal, people driven person. For that reason I would then say I depend on <b>Friends</b>. <b>Aspirational Figures</b> I look up to and desire to obtain certain traits. Finally considering work takes up a significant portion of my day and also contains a subset of aspiration figures, I have <b>Co-Workers</b>.
 
-#### Friends 
+#### Friends
 | Value Position Justification | Evolution Justification |
 | --- | --- |
 | I’ll never meet anyone quite like the friends I have. The value they have to me is an amount undescribable. High Value | They’re one of a kind, and like with a custom built system. It works and I've invested a great amount of time and wouldn’t want to change. Custom Built. |
 
-#### Aspirational Figures 
+#### Aspirational Figures
 | Value Position Justification | Evolution Justification |
 | --- | --- |
 | The value these people have to me I regard quite highly, some research showed me Shakespeare first used the word 'Aspiration' to denote 'filling ones lungs' and upward desire. <i>"When you want to Succeed as Bad as you want to Breathe, then you'll be successful"</i> - Eric Thomas | I view them as one of a kind, different, knowledgeable in similar interests. Arguably they could be in custom built or genesis due to the time and effort devoted in their fields and are hard to find. Again a subset of co-workers so visible but a little less. |

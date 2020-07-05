@@ -32,10 +32,11 @@ jobs:
     #############################################
     # Validate Presentations Meet Specification #
     #############################################    
-    - name: Glasswall Rebuild
-      uses: tpilvelis-gw/rebuild-action@v1
-      with:
-        filetype: 'pptx'
+    # Docker Image Does Not Have Good Glasswall Engine inside
+    #- name: Glasswall Rebuild
+    #  uses: tpilvelis-gw/rebuild-action@v1
+    #  with:
+    #    filetype: 'pptx'
 
     ################################
     # Run Static Analyser          #
