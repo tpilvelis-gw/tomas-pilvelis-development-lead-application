@@ -86,34 +86,35 @@ I view the purpose of mapping to tell your current story, and then depict how yo
 ![](maps/map6.png)
 I could eveolve my friends... I hope you're not reading this. My strategy could be to change friends, to make them more familiar with my particular professional field of technology.
 Friends who are great influences in my life could be more related to my goals.
-```
-title Whats Made Me Who I am Today
-anchor Me [0.95, 0.39]
-component Friends [0.81, 0.33] label [18, 4]
-component Co-Workers [0.78, 0.73] label [13, -13]
-component Aspirational Figures [0.66, 0.03] label [34, -10]
 
-component Tea and Biscuits [0.09, 0.71]
-component Pub [0.53, 0.34] label [11, 3]
-component Events [0.62, 0.25] label [-59, 5]
+## Code Used
 
-component Experience [0.58, 0.89]
-component Education [0.29, 0.68] label [12, 3]
-component Domain Knowledge [0.44, 0.38] label [23, -4]
+    title Whats Made Me Who I am Today
+    anchor Me [0.95, 0.39]
+    component Friends [0.81, 0.33] label [15, -7]
+    component Co-Workers [0.78, 0.73] label [13, -13]
+    component Aspirational Figures [0.66, 0.03] label [34, -10]
 
-Me->Friends
-Me->Aspirational Figures
-Me->Co-Workers
+    component Tea and Biscuits [0.09, 0.71]
+    component Pub [0.53, 0.34] label [11, 3]
+    component Events [0.62, 0.25] label [-59, 5]
 
-Friends->Events
-Friends->Pub
-Friends->Tea and Biscuits
-Co-Workers->Education
-Co-Workers->Experience
-Co-Workers->Domain Knowledge
-Events->Pub
+    component Experience [0.58, 0.89]
+    component Education [0.29, 0.68] label [12, 3]
+    component Domain Knowledge [0.44, 0.38] label [23, -4]
 
+    Me->Friends
+    Me->Aspirational Figures
+    Me->Co-Workers
 
+    Friends->Events
+    Friends->Pub
+    Friends->Tea and Biscuits
+    Co-Workers->Education
+    Co-Workers->Experience
+    Co-Workers->Domain Knowledge
+    Events->Pub
 
-style wardley
-```
+    evolve Friends 0.5
+
+    style wardley
