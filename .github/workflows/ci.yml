@@ -5,6 +5,8 @@ name: CI
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
 on:
+  push:
+    branches: [ master ]
   pull_request:
     branches: [ master ]
 
@@ -32,10 +34,11 @@ jobs:
     #############################################
     # Validate Presentations Meet Specification #
     #############################################    
-    - name: Glasswall Rebuild
-      uses: tpilvelis-gw/rebuild-action@v1
-      with:
-        filetype: 'pptx'
+    # Docker Image Does Not Have Good Glasswall Engine inside
+    #- name: Glasswall Rebuild
+    #  uses: tpilvelis-gw/rebuild-action@v1
+    #  with:
+    #    filetype: 'pptx'
 
     ################################
     # Run Static Analyser          #

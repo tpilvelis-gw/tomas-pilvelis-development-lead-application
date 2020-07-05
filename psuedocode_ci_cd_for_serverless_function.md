@@ -1,127 +1,136 @@
 # Pseudocode Description of a CI/CD pipeline for a Serverless Function
 
+Contents
 
-```
-name: CI
+- [CI](#ci.yml)
+- [CD](#cd.yml)
+- [Real World Examples](#real-world-examples)
 
-on:
-  pull_request:
-    branches: [ dev ]
+## CI.yml
 
-jobs:
+    name: CI
 
-  static-code-analysis:
-    runs-on: ubuntu-latest
+    on:
+    pull_request:
+        branches: [ dev ]
 
-    - uses: actions/checkout@v2
+    jobs:
 
-    ################################
-    # Run linter against code base #
-    ################################
+    static-code-analysis:
+        runs-on: ubuntu-latest
 
-    ################################
-    # Run Static Analyser          #
-    ################################
+        - uses: actions/checkout@v2
 
-  build:
-    runs-on: ubuntu-latest
+        ################################
+        # Run linter against code base #
+        ################################
 
-    - uses: actions/checkout@v2
+        ################################
+        # Run Static Analyser          #
+        ################################
 
-    ################################
-    # Install Dependencies         #
-    ################################
+    build:
+        runs-on: ubuntu-latest
 
-    ################################
-    # Build Codebase               #
-    ################################
+        - uses: actions/checkout@v2
 
-  test:
-    runs-on: ubuntu-latest
+        ################################
+        # Install Dependencies         #
+        ################################
 
-    - uses: actions/checkout@v2
+        ################################
+        # Build Codebase               #
+        ################################
 
-    ################################
-    # Run Unit Tests               #
-    ################################
-  
-    ################################
-    # Run Integration Tests        #
-    ################################
-```
+    test:
+        runs-on: ubuntu-latest
 
-```
-name: CD
+        - uses: actions/checkout@v2
 
-on:
-  pull_request:
-    branches: [ master ]
+        ################################
+        # Run Unit Tests               #
+        ################################
+    
+        ################################
+        # Run Integration Tests        #
+        ################################
 
-jobs:
 
-  static-code-analysis:
-    runs-on: ubuntu-latest
+## CD.yml
 
-    - uses: actions/checkout@v2
+    name: CD
 
-    ################################
-    # Run linter against code base #
-    ################################
+    on:
+    pull_request:
+        branches: [ master ]
 
-    ################################
-    # Run Static Analyser          #
-    ################################
+    jobs:
 
-  build:
-    runs-on: ubuntu-latest
+    static-code-analysis:
+        runs-on: ubuntu-latest
 
-    - uses: actions/checkout@v2
+        - uses: actions/checkout@v2
 
-    ################################
-    # Install Serverless           #
-    ################################
+        ################################
+        # Run linter against code base #
+        ################################
 
-    ################################
-    # Install Serverless Plugins   #
-    ################################
+        ################################
+        # Run Static Analyser          #
+        ################################
 
-    ################################
-    # Build Project                #
-    ################################
+    build:
+        runs-on: ubuntu-latest
 
-  test:
-    runs-on: ubuntu-latest
+        - uses: actions/checkout@v2
 
-    - uses: actions/checkout@v2
+        ################################
+        # Install Serverless           #
+        ################################
 
-    ################################
-    # Run Unit Tests               #
-    ################################
-  
-    ################################
-    # Run Integration Tests        #
-    ################################
+        ################################
+        # Install Serverless Plugins   #
+        ################################
 
-  deploy:
-    runs-on: ubuntu-latest
+        ################################
+        # Build Project                #
+        ################################
 
-    - uses: actions/checkout@v2
+    test:
+        runs-on: ubuntu-latest
 
-    ################################
-    # Install Serverless           #
-    ################################
+        - uses: actions/checkout@v2
 
-    ################################
-    # Install Serverless Plugins(o)#
-    ################################
+        ################################
+        # Run Unit Tests               #
+        ################################
+    
+        ################################
+        # Run Integration Tests        #
+        ################################
 
-    ################################
-    # Build Project                #
-    ################################
-```
+    deploy:
+        runs-on: ubuntu-latest
 
-Please also see some projects I have implemented CI/CD Pipelines for.
+        - uses: actions/checkout@v2
+
+        ################################
+        # Install Serverless           #
+        ################################
+
+        ################################
+        # Install Serverless Plugins(o)#
+        ################################
+
+        ################################
+        # Build Project                #
+        ################################
+
+
+## Real World Examples
+Please also see some projects I have implemented CI/CD Pipelines for Servless.
 
 [Victoria Security](https://github.com/glasswall-sre/victoria-security/tree/master/.github/workflows)
+
 
 [Deadletter Watcher](https://github.com/glasswall-sre/dead-letter-watcher/tree/master/.github/workflows)
