@@ -19,7 +19,7 @@ I thought whats the most complex system to impress? To accomplish my  goal... A 
 I've seen Wardley create his maps after creating the value chain first then developing further via evolution axis. I shall follow in a similar way by piecing the valued items and rearanging towards the end.
 
 ### Mapping the Most Complex System - Me
-![](maps/map1.png)
+![1st Map](maps/map1.png)
 I’m a very personal, people driven person. For that reason I would then say I depend on <b>Friends</b>. <b>Aspirational Figures</b> I look up to and desire to obtain certain traits. Finally considering work takes up a significant portion of my day and also contains a subset of aspiration figures, I have <b>Co-Workers</b>.
 
 #### Friends 
@@ -44,10 +44,10 @@ At this point I had then added 3 more components. I believed it didn't reflect m
 I view the purpose of mapping to tell your current story, and then depict how you would solve the problem by strategy and mapping.
 
 ### Phase 2 - Map out Value Chain Position
-![](maps/map3.png)
+![2nd Map](maps/map3.png)
 
 ### Phase 3 - Map out Evolution
-![](maps/map4.png)
+![3rd Map](maps/map4.png)
 
 #### Events
 | Value Position Justification | Evolution Justification |
@@ -80,10 +80,10 @@ I view the purpose of mapping to tell your current story, and then depict how yo
 | Particularly in the field of Computer Science, Programming etc, the amount of time in education was very limited, valuable, however most would say they have learnt more through experience than education. | In this context I refer to education as school education. The education taught is verified by everyone and taught to classes nationally. Including university education. It is specific to each university however the items taught can remain unchanged and taught to many others. This could be in product due to it's wide variety of universitys and ways it can be taught and also tuition fees productise education. |
 
 ### Phase 4 - Final Amendments
-![](maps/map5.png)
+![4th Map](maps/map5.png)
 
 ### Phase 5 - Strategy to Achieve Role (Should I Fail)
-![](maps/map6.png)
+![5th Map](maps/map6.png)
 I could eveolve my friends... I hope you're not reading this. My strategy could be to change friends, to make them more familiar with my particular professional field of technology.
 Friends who are great influences in my life could be more related to my goals.
 
