@@ -1,15 +1,17 @@
 # Wardley Map
-I would watch Simon Wardley mapping videos, however not understand the purpose of Wardley Maps. I realised after rewatching his content, that before I lacked a need of a strategy or a story. 
+I would watch Simon Wardley mapping videos, however not understand the purpose of Wardley Maps. I realised after rewatching his content, that before I lacked a need of a strategy or a story to tell. 
 
-I understood that you can explain 'how to get to a location' via explaination by means of telling a story, and also a visual representation. In Szu Tzu's case it was to think, to strategise warfare. In Simons case it was business strategy. <b>In my case it is to strategically obtain a role.</b>
+I understood that you can explain 'how to get to a location' via explaination by means of telling a story, and also a visual representation. In Szu Tzu's case it was to think, to strategise warfare. In Simon Wardley's case it was business strategy.
 
-## What to Wardley Map
+In my case it is to get through the hiring process to obtain the Developer Team Lead role.
+
+## What to Wardley Map?
 This was a difficult question for me to answer. I thought about problems I could attempt to solve via wardley maps:
 
 - Glasswall Marketing?
 - Automating Toil?
 
-I thought whats the most complex system, a goal to accomplish... A human beings mind, the phsycology. Myself.
+I thought whats the most complex system to impress? To accomplish my  goal... A human beings mind, the phsycology. Myself.
 
 ## This is my Story
 
@@ -38,7 +40,8 @@ I’m a very personal, people driven person. For that reason I would then say I 
 
 
 ## Start Again
-At this point I had then added 3 more components however I believed it didn't reflect my story. So I reverted to Wardleys approach of developing a value chain first. I realised it does not have to make sense right away to solve the problem becuase if you can tell the story now to how you would solve the problem by strategy then it's okay.
+At this point I had then added 3 more components. I believed it didn't reflect my story well. So I reverted to Wardleys approach of developing a value chain first. I understood it does not have to make sense first time round to solve the problem.
+I view the purpose of mapping to tell your current story, and then depict how you would solve the problem by strategy and mapping.
 
 ### Phase 2 - Map out Value Chain Position
 ![](maps/map3.png)
