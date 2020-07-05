@@ -1,7 +1,9 @@
 # Wardley Map
-I would watch Simon Wardley mapping videos, however not understand the purpose of Wardley Maps. I realised after rewatching his content, that before I lacked a need of a strategy or a story to tell. 
+I would watch Simon Wardley mapping videos, however not understand the purpose of Wardley Maps. I realised after rewatching his content, that before I lacked a need of a strategy or a story to tell.
+
 
 I understood that you can explain 'how to get to a location' via explaination by means of telling a story, and also a visual representation. In Szu Tzu's case it was to think, to strategise warfare. In Simon Wardley's case it was business strategy.
+
 
 In my case it is to get through the hiring process to obtain the Developer Team Lead role.
 
@@ -23,7 +25,6 @@ I've seen Wardley create his maps after creating the value chain first then deve
 I’m a very personal, people driven person. For that reason I would then say I depend on <b>Friends</b>. <b>Aspirational Figures</b> I look up to and desire to obtain certain traits. Finally considering work takes up a significant portion of my day and also contains a subset of aspiration figures, I have <b>Co-Workers</b>.
 
 #### Friends 
-
 | Value Position Justification | Evolution Justification |
 | --- | --- |
 | I’ll never meet anyone quite like the friends I have. The value they have to me is an amount undescribable. High Value | They’re one of a kind, and like with a custom built system. It works and I've invested a great amount of time and wouldn’t want to change. Custom Built. |
