@@ -29,6 +29,15 @@ jobs:
       uses: docker://github/super-linter:v3
       env:
         VALIDATE_ALL_CODEBASE: true
+        
+    
+    #############################################
+    # Validate Presentations Meet Specification #
+    #############################################    
+    - name: Glasswall Rebuild
+      uses: tpilvelis-gw/rebuild-action@v1
+      with:
+        filetype: 'pptx'
 
     ################################
     # Run Static Analyser          #
