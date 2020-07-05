@@ -38,7 +38,7 @@ I’m a very personal, people driven person. For that reason I would then say I 
 
 
 ## Start Again
-At this point I had then added 3 more components however I believed it didn't make sense. So I reverted to Wardleys approach of developing a value chain first. I realised it does not have to make sense right away to solve the problem becuase if you can tell the story now to how you would solve the problem by strategy then it's okay.
+At this point I had then added 3 more components however I believed it didn't reflect my story. So I reverted to Wardleys approach of developing a value chain first. I realised it does not have to make sense right away to solve the problem becuase if you can tell the story now to how you would solve the problem by strategy then it's okay.
 
 ### Phase 2 - Map out Value Chain
 ![](map3.png)
