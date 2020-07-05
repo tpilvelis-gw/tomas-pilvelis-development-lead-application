@@ -17,7 +17,7 @@ I thought whats the most complex system, a goal to accomplish... A human beings 
 I've seen Wardley create his maps after creating the value chain first then developing further via evolution axis. I shall follow in a similar way by piecing the valued items and rearanging towards the end.
 
 ### Mapping the Most Complex System - Me
-![](map1.png)
+![](maps/map1.png)
 I’m a very personal, people driven person. For that reason I would then say I depend on <b>Friends</b>. <b>Aspirational Figures</b> I look up to and desire to obtain certain traits. Finally considering work takes up a significant portion of my day and also contains a subset of aspiration figures, I have <b>Co-Workers</b>.
 
 #### Friends 
@@ -41,7 +41,7 @@ I’m a very personal, people driven person. For that reason I would then say I 
 At this point I had then added 3 more components however I believed it didn't reflect my story. So I reverted to Wardleys approach of developing a value chain first. I realised it does not have to make sense right away to solve the problem becuase if you can tell the story now to how you would solve the problem by strategy then it's okay.
 
 ### Phase 2 - Map out Value Chain
-![](map3.png)
+![](maps/map3.png)
 
 #### Events
 | Value Position Justification | Evolution Justification |
@@ -74,7 +74,7 @@ At this point I had then added 3 more components however I believed it didn't re
 | Particularly in the field of Computer Science, Programming etc, the amount of time in education was very limited, valuable, however most would say they have learnt more through experience than education. | |
 
 ### Phase 3 - Map out Evolution
-![](map4.png)
+![](maps/map4.png)
 
 #### Events
 | Value Position Justification | Evolution Justification |
@@ -107,10 +107,10 @@ At this point I had then added 3 more components however I believed it didn't re
 | | In this context I refer to education as school education. The education taught is verified by everyone and taught to classes nationally. Including university education. It is specific to each university however the items taught can remain unchanged and taught to many others. This could be in product due to it's wide variety of universitys and ways it can be taught and also tuition fees productise education. |
 
 ### Phase 4 - Final Amendments
-![](map5.png)
+![](maps/map5.png)
 
 ### Phase 5 - Strategy to Achieve Role (Should I Fail)
-![](map6.png)
+![](maps/map6.png)
 I could eveolve my friends... I hope you're not reading this. My strategy could be to change friends, to make them more familiar with my particular professional field of technology.
 Friends who are great influences in my life could be more related to my goals.
 ```
