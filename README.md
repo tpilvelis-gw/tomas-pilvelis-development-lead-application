@@ -1,6 +1,7 @@
 # dev-lead-application
 
 ![CI](https://github.com/tpilvelis-gw/dev-lead-application/workflows/CI/badge.svg)
+[![CC BY 4.0][cc-by-shield]][cc-by]
 
 - about me (DRAFT)
 - wardley map (DRAFT)
@@ -8,7 +9,7 @@
 - 5 metrics for serverless function (DRAFT)
 - Use CI / CD Pipeline for bonus points (DRAFT)
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
 
 This work is licensed under a [Creative Commons Attribution 4.0 International
 License][cc-by].
