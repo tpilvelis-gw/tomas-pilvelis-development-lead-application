@@ -40,38 +40,8 @@ I’m a very personal, people driven person. For that reason I would then say I 
 ## Start Again
 At this point I had then added 3 more components however I believed it didn't reflect my story. So I reverted to Wardleys approach of developing a value chain first. I realised it does not have to make sense right away to solve the problem becuase if you can tell the story now to how you would solve the problem by strategy then it's okay.
 
-### Phase 2 - Map out Value Chain
+### Phase 2 - Map out Value Chain Position
 ![](maps/map3.png)
-
-#### Events
-| Value Position Justification | Evolution Justification |
-| --- | --- |
-| Events with friends are high valued. Whether it's travelling, visits to the pub and other past times, it's a way to let loose. | |
-
-#### Pub
-| Value Position Justification | Evolution Justification |
-| --- | --- |
-| Lower in value than events however does provide a great social space. | |
-
-#### Tea and Biscuits
-| Value Position Justification | Evolution Justification |
-| --- | --- |
-| Inspired by Wardleys example, my friends have a great love for tea I cannot explain. To me there is no value in this... I'm not an avid tea supporter, let alone make a cup of tea. | |
-
-#### Domain Knowledge
-| Value Position Justification | Evolution Justification |
-| --- | --- |
-| Co-Workers of high experience have spent vast amounts of time learning and their knowledge makes them valuable to a company. | |
-
-#### Experience
-| Value Position Justification | Evolution Justification |
-| --- | --- |
-| Experience is an asset to a company. Experience accredits a worker and due to the amount of time spent experiencing work than education it becomes more valuable. | |
-
-#### Education
-| Value Position Justification | Evolution Justification |
-| --- | --- |
-| Particularly in the field of Computer Science, Programming etc, the amount of time in education was very limited, valuable, however most would say they have learnt more through experience than education. | |
 
 ### Phase 3 - Map out Evolution
 ![](maps/map4.png)
@@ -79,32 +49,32 @@ At this point I had then added 3 more components however I believed it didn't re
 #### Events
 | Value Position Justification | Evolution Justification |
 | --- | --- |
-| | Events with friends are meaningful and fun, typically travel to places we have never been before, or even visiting the local pub or trying new pubs. |
+| Events with friends are high valued. Whether it's travelling, visits to the pub and other past times, it's a way to let loose. | Events with friends are meaningful and fun, typically travel to places we have never been before, or even visiting the local pub or trying new pubs. |
 
 #### Pub
 | Value Position Justification | Evolution Justification |
 | --- | --- |
-| | All pubs are custom built. Every weatherspoons has a different unique style of carpet, has been productised however so this is debateable. |
+| Lower in value than events however does provide a great social space. | All pubs are custom built. Every weatherspoons has a different unique style of carpet, has been productised however so this is debateable. |
 
 #### Tea and Biscuits
 | Value Position Justification | Evolution Justification |
 | --- | --- |
-| | Large brand tea such as Twinnings and Yorkshire Gold. Already a product that people need as demonstrated by my friends. |
+| Inspired by Wardleys example, my friends have a great love for tea I cannot explain. To me there is no value in this... I'm not an avid tea supporter, let alone make a cup of tea. | Large brand tea such as Twinnings and Yorkshire Gold. Already a product that people need as demonstrated by my friends. |
 
 #### Domain Knowledge
 | Value Position Justification | Evolution Justification |
 | --- | --- |
-| | CDR knowledge is hard to come by. Not only is knowledge on file formats is important but also how to apply that knowledge. |
+| Co-Workers of high experience have spent vast amounts of time learning and their knowledge makes them valuable to a company. | CDR knowledge is hard to come by. Not only is knowledge on file formats is important but also how to apply that knowledge. |
 
 #### Experience
 | Value Position Justification | Evolution Justification |
 | --- | --- |
-| | Everyone face working experince. This is dependant on the co-worker and the time they have spent in work. |
+| Experience is an asset to a company. Experience accredits a worker and due to the amount of time spent experiencing work than education it becomes more valuable. | Everyone face working experince. This is dependant on the co-worker and the time they have spent in work. |
 
 #### Education
 | Value Position Justification | Evolution Justification |
 | --- | --- |
-| | In this context I refer to education as school education. The education taught is verified by everyone and taught to classes nationally. Including university education. It is specific to each university however the items taught can remain unchanged and taught to many others. This could be in product due to it's wide variety of universitys and ways it can be taught and also tuition fees productise education. |
+| Particularly in the field of Computer Science, Programming etc, the amount of time in education was very limited, valuable, however most would say they have learnt more through experience than education. | In this context I refer to education as school education. The education taught is verified by everyone and taught to classes nationally. Including university education. It is specific to each university however the items taught can remain unchanged and taught to many others. This could be in product due to it's wide variety of universitys and ways it can be taught and also tuition fees productise education. |
 
 ### Phase 4 - Final Amendments
 ![](maps/map5.png)
