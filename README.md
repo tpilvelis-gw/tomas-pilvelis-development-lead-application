@@ -8,7 +8,7 @@
 - Create a presentation with a Wardley Map (for example: about an industry, about you or even about a cup of coffee). In this presentation we also want to see the -- candidate’s experience of creating that map, the thought process and the learning experience. You can use this to help, click on Sample Map for an example. [Link](wardley_map.md)
 - Provide a pseudocode description of a CI/CD pipeline for a Serverless function. Include builds and build steps, environments, deployments [Link](psuedocode_ci_cd_for_serverless_function.md)
 - Provide a list of 5 generic metrics you would want to build visualisation on for a Serverless function product.
-- Put all materials in a public or private GitHub/GitLab repo (bonus points for the use of CI/CD pipelines and releasing materials under a Creative Commons licence)
+- Put all materials in a public or private GitHub/GitLab repo (bonus points for the use of CI/CD pipelines and releasing materials under a Creative Commons licence) [Link to pipelines](.github/workflows) and [Link to license](LICENSE)
 
 
 
