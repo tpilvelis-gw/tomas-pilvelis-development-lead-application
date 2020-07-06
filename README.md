@@ -6,7 +6,7 @@
 ![CD](https://github.com/tpilvelis-gw/dev-lead-application/workflows/CD/badge.svg)
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
-<img src="self.jpg" alt="drawing" width="150"/>
+<img src="self.jpg" alt="drawing" width="200"/>
 
 # Challenges
 
