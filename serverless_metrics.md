@@ -6,7 +6,7 @@
 
 This would be a great indication of <b>ease of use</b> to the user of the product. 
 
-I would say that if the user has managed to find, copy, paste code. Insert API Key and all other parameters correctly all in one attempt to make an API call. This is a good metric to determine <b>usability</b> and <b>quality of documentation</b>.
+If the user has managed to find, copy, paste code. Insert API Key and all other parameters correctly all in one attempt to make an API call. This is a good metric to determine <b>usability</b> and <b>quality of documentation</b>.
 
 
 ## 2. Number of Cold Starts
