@@ -5,26 +5,19 @@
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
 
-## Presentation About Myself
-[Link](about_me.pptx)
+## [Presentation About Myself](about_me.pptx)
 
 
-## Presentation with Wardley Map inc Explainations
-[Link](wardley_map.md)
+## [Presentation with Wardley Map inc Explainations](wardley_map.md)
 
 
-## CI/CD Pipeline for a Serverless Function
-[Link](psuedocode_ci_cd_for_serverless_function.md)
+## [CI/CD Pipeline for a Serverless Function](psuedocode_ci_cd_for_serverless_function.md)
 
 
-## 5 Generic Metrics I Want to Visualise for a Serverless Function Product
-[Link](serverless_metrics.md)
+## [5 Generic Metrics I Want to Visualise for a Serverless Function Product](serverless_metrics.md)
 
 
-## Materials in a GitHub Repo with CI/CD Pipeline and CC License
-[Link to pipelines](.github/workflows)
-
-[Link to license](LICENSE)
+## Materials in a GitHub Repo with [CI/CD Pipeline](.github/workflows) and [CC License](LICENSE)
 
 
 
