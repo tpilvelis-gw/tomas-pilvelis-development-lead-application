@@ -26,6 +26,7 @@ Errors can occour for many reasons or combinations. This can be frustrating to t
 
 Duration allows us to monitor the performance of the product. Time is money in the world of Serverless, so reducing execution time to <b>reduce cost</b> where possible should be considered a priority.
 
+
 ## 5. Memory Usage
 
 
