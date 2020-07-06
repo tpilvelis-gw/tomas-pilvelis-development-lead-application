@@ -11,7 +11,7 @@ Contents
     name: CI
 
     on:
-    pull_request:
+      pull_request:
         branches: [ dev ]
 
     jobs:
@@ -61,7 +61,7 @@ Contents
     name: CD
 
     on:
-    pull_request:
+      push:
         branches: [ master ]
 
     jobs:
@@ -123,7 +123,7 @@ Contents
             ################################
 
             ################################
-            # Build Project                #
+            # Deploy Project                #
             ################################
 
 
