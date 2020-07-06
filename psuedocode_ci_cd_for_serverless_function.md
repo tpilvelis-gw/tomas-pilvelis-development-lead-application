@@ -130,6 +130,8 @@ Contents
 ## Real World Examples
 Please also see some projects I have implemented CI/CD Pipelines for Servless.
 
+***
+
 [Victoria Security](https://github.com/glasswall-sre/victoria-security)
 
 [Serverless YAML](https://github.com/glasswall-sre/victoria-security/blob/master/serverless.yml)
@@ -147,3 +149,9 @@ Please also see some projects I have implemented CI/CD Pipelines for Servless.
 [Deadletter Event Trigger Pulumi](https://github.com/glasswall-sre/dead-letter-watcher/tree/master/event_trigger)
 
 [CI/CD Pipelines](https://github.com/glasswall-sre/dead-letter-watcher/tree/master/.github/workflows)
+
+***
+
+Not only using CI/CD Pipelines is useful. Creating tasks open source is also beneficial for a company internally and also the wider audience.
+
+[Glasswall Rebuild Github Action](https://github.com/tpilvelis-gw/rebuild-action)
