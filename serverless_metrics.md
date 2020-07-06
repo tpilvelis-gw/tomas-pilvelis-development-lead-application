@@ -4,7 +4,7 @@
 ## 1. Number of requests made due to bad parameters inserted
 
 
-This would be a great indication of <b>ease of use</b> to the user of the product. 
+This would be a great indication of <b>ease of use</b> to the user of the product.
 
 If the user has managed to find, copy, paste code. Insert API Key and all other parameters correctly all in one attempt to make an API call. This is a good metric to determine <b>usability</b> and <b>quality of documentation</b>.
 
