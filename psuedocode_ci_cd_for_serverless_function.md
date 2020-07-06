@@ -123,8 +123,9 @@ Contents
             ################################
 
             ################################
-            # Deploy Project                #
+            # Deploy Project               #
             ################################
+            ## Specify Evironment to serverless to deploy with
 
 
 ## Real World Examples
