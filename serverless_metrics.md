@@ -26,13 +26,11 @@ Errors can occour for many reasons or combinations. This can be frustrating to t
 
 Duration allows us to monitor the performance of the product. Time is money in the world of Serverless, so reducing execution time to <b>reduce cost</b> where possible should be considered a priority.
 
-## 5. 
+## 5. Memory Usage
 
 
-## Excluded Metrics
+Memory Usage is also an attribute to costing in Serverless. The less memory consumed the cheaper and more profitable the product can be. This would be interesting to visualise particularly having it visualised on a per file, size dependant basis.
 
 
-I would argue invocations is irrelivant. A successful product should not need to monitor this figure. Yes it is a good metric, however a rough correlation can be found by purchases.
 
-If we could be cheeky, I would have said there is a one-to-one relationship with duration and invocations. Each invocation will have a duration so a metric could be derived from this.
 
