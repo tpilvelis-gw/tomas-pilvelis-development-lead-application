@@ -1,8 +1,12 @@
+<div align="center" style="text-align:center">
+  
 # Development Team Lead Application
 
 ![CI](https://github.com/tpilvelis-gw/dev-lead-application/workflows/CI/badge.svg)
 ![CD](https://github.com/tpilvelis-gw/dev-lead-application/workflows/CD/badge.svg)
 [![CC BY 4.0][cc-by-shield]][cc-by]
+
+# Challenges
 
 
 ## [Presentation About Myself](about_me.pdf)
@@ -19,8 +23,12 @@
 
 ## Materials in a GitHub Repo with [CI/CD Pipeline](.github/workflows) and [CC License](LICENSE)
 
-## Other
+# Other
 [CV](TomPilvelisCV.06.07.20.pdf)
+
+
+</div>
+
 
 This work is licensed under a [Creative Commons Attribution 4.0 International
 License][cc-by].
