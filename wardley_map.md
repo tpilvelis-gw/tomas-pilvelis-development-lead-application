@@ -84,8 +84,8 @@ I view the purpose of mapping to tell your current story and then depict how you
 ![4th Map](maps/map5.png)
 
 ### Phase 5 - Strategy to Achieve Role (Should I Fail)
-![5th Map](maps/map6.png)
-I could evolve my friends... I hope you're not reading this. My strategy could be to change friends, to make them more familiar with my particular professional field of technology.
+![5th Map](maps/map7.png)
+I could evolve my friends... I hope they're not reading this. My strategy could be to change friends, or better teach them to make them more familiar with my particular professional field of technology.
 Friends who are great influences in my life could be more related to my goals.
 
 ## Code Used
@@ -118,4 +118,4 @@ Friends who are great influences in my life could be more related to my goals.
 
     evolve Friends 0.5
 
-    style wardle
+    style wardley
