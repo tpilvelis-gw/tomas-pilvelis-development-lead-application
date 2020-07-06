@@ -24,7 +24,7 @@ jobs:
   
     - name: Build project # This would actually build your project, using zip for an example artifact
       run: |
-        zip --junk-paths my-artifact README.md
+        zip -r my-application .
 
     - name: Create Release
       id: create_release
@@ -33,7 +33,7 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         tag_name: ${{ github.ref }}
-        release_name: Release ${{ github.ref }}
+        release_name: Release ${{ github.ref##*/}}
         draft: true
         prerelease: true
 
@@ -44,6 +44,6 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./my-artifact.zip
-        asset_name: my-artifact.zip
+        asset_path: ./my-application.zip
+        asset_name: my-application.zip
         asset_content_type: application/zip
