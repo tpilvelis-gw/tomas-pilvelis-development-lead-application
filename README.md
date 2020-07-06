@@ -5,7 +5,7 @@
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
 
-## [Presentation About Myself](about_me.pptx)
+## [Presentation About Myself](about_me.pdf)
 
 
 ## [Presentation with Wardley Map inc Explainations](wardley_map.md)
